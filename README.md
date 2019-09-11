@@ -1,6 +1,8 @@
 # DitoFrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+Foi feita a tarefa conforme o solicitado, a aplicação foi desenvolvida utilizando o framework Angular, segue abaixo as instruções para executar a aplicação.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.5.
 
 ## Development server
 
