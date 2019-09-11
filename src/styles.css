@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+div.mat-card-header-text {
+  display: none;
+}
+
+mat-card-header mat-icon {
+  height: 14px !important;
+  width: 14px !important;
+  padding-right: 5px;
+}
