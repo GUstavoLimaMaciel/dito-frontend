@@ -9,3 +9,7 @@ mat-card-header mat-icon {
   width: 14px !important;
   padding-right: 5px;
 }
+
+mat-card-header {
+    padding-bottom: 5px; 
+}
